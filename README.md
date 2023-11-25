@@ -49,3 +49,6 @@ git push origin master
 ```bash
 git checkout -b NOM_BRANCHE
 ```
+Pour les bonnes pratique, on va integrer la notion de revue de code.Pour cela, on va creer une branche , 
+faire des modifications, les envoyer sur le depot distant, puis creer un pool request pour demander une revue 
+de code.
