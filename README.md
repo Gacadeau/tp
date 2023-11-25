@@ -1,13 +1,13 @@
-    # Documentation du tuto Github avec git
+# Documentation du tuto Github avec git
 
-    ## to show hidden file
+## to show hidden file
 # Get_ChildItem
 
-    ## configure my Git user information
+## configure my Git user information
 # git config --global user.email "gashimwea@gmail"
 # git config --global user.name "Gacadeau"
 
-    ## Initialisation
+## Initialisation
 ```bash
 git init
 git remote add origin SSH_REPO
