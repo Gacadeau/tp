@@ -1,11 +1,15 @@
-# Documentation du tuto Github avec git
+# Documentation with  Github and git
 
-## to show hidden file
-# Get_ChildItem
+## to show hidden file 
+```bash
+Get_ChildItem
+``` 
 
 ## configure my Git user information
-# git config --global user.email "gashimwea@gmail"
-# git config --global user.name "Gacadeau"
+```bash
+git config --global user.email "gashimwea@gmail"
+git config --global user.name "Gacadeau"
+``` 
 
 ## Initialisation
 ```bash
